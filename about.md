@@ -1,6 +1,6 @@
 ---
 title: CMU Disorientation About
-layout:default
+layout: default
 ---
 
 ## About
