@@ -5,4 +5,4 @@ layout: default
 
 ## About
 
-More information coming soon.
+More information is coming soon. Stay tuned.
