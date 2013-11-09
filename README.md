@@ -1,4 +1,4 @@
 cmu
 ====================
 
-Source for http://cmu.dis-orientation.info
+Central Michigan University Disorientation Guide --- located at http://cmu.dis-orientation.info
