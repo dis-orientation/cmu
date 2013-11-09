@@ -1,3 +1,3 @@
 ## About
 
-This is CMU's DOG.
+More information coming soon.
