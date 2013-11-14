@@ -1,5 +1,5 @@
 ---
-title: CMU Disorientation Guides
+title: CMU Dis-orientation Guides
 layout: default
 ---
 

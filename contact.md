@@ -1,5 +1,5 @@
 ---
-title: CMU Disorientation Contact
+title: CMU Dis-orientation Contact
 layout: default
 ---
 

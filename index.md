@@ -1,5 +1,5 @@
 ---
-title: Disorientation
+title: CMU Dis-orientation
 layout: default
 ---
 
