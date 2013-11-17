@@ -15,4 +15,4 @@ we even throw Political Prisoner Letter Writing Parties, normal boogy-ing-get-do
 We're pretty new in working with the Dis-Orientation Collective, 
 and have only released [the first issue] (http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf) of the Dis-Orientation Guide (DOG), 
 and are working on getting [Issue 2] (http://cmu.dis-orientation.info/dogs/) out ASAP! If you would like to get involved, 
-help us write a DOG, or think of an issue you'd like us to write about, please just [contact us]! (http://cmu.dis-orientation.info/contact/)
+help us write a DOG, or think of an issue you'd like us to write about, please just [contact us] (http://cmu.dis-orientation.info/contact/)!
