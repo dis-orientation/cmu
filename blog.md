@@ -1,9 +1,9 @@
 ---
-title: XYZ Dis-orientation 
+title: CMU Dis-orientation Blog
 layout: default
 ---
 
-## XYZ Blog
+## CMU Dis-orientation Blog
 
 {% for post in site.posts %}
 {% if forloop.last != true %}
