@@ -11,7 +11,7 @@ The CMU DOG empowers individuals by providing a collaborative outlet to create i
 
 ## Current CMU DOG Issue
 
-<div data-configid="0/6403315" style="width: 525px; height: 340px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+<div data-configid="0/6403315" style="width: 650px; height: 421px; margin:0 auto;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
 <!--
 ## Previous CMU DOG Issues
