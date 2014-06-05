@@ -5,6 +5,10 @@ layout: default
 
 ## CMU Dis-orientation Blog
 
+Coming soon!
+
+<!--
+
 {% for post in site.posts %}
 {% if forloop.last != true %}
 <div class="post">
@@ -36,3 +40,5 @@ layout: default
 </div>
 {% endif %}
 {% endfor %}
+
+-->
